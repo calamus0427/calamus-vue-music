@@ -1,0 +1,27 @@
+{
+    "name": "calamus-vue-music",
+    "version": "0.0.2",
+    "description": "a vue music player",
+    "main": "music.vue",
+    "bin": "music.vue",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/calamus0427/calamus-vue-music.git"
+    },
+    "keywords": [
+        "music",
+        "player",
+        "vue",
+        "calamus"
+    ],
+    "author": "calamus",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/calamus0427/calamus-vue-music/issues"
+    },
+    "homepage": "https://github.com/calamus0427/calamus-vue-music#readme",
+    "_from": "calamus-vue-music@0.0.1"
+}
